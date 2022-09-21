@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui par acessar](https://ramonzacarias.github.io/nlw-esports-2022)
+[🔗 Clique aqui para acessar](https://ramonzacarias.github.io/nlw-esports-2022)
 
 
 ## 🛠️ Tecnologias Utilizadas
